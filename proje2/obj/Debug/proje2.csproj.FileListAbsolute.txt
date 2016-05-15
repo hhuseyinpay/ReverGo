@@ -1,0 +1,18 @@
+C:\Users\aaa\Desktop\proje2\proje2\bin\Debug\proje2.exe.config
+C:\Users\aaa\Desktop\proje2\proje2\bin\Debug\proje2.exe
+C:\Users\aaa\Desktop\proje2\proje2\bin\Debug\proje2.pdb
+C:\Users\aaa\Desktop\proje2\proje2\obj\Debug\proje2.csprojResolveAssemblyReference.cache
+C:\Users\aaa\Desktop\proje2\proje2\obj\Debug\proje2.exe
+C:\Users\aaa\Desktop\proje2\proje2\obj\Debug\proje2.pdb
+C:\Users\aaa\Desktop\Yeni klasör\proje2\proje2\bin\Debug\proje2.exe.config
+C:\Users\aaa\Desktop\Yeni klasör\proje2\proje2\obj\Debug\proje2.exe
+C:\Users\aaa\Desktop\Yeni klasör\proje2\proje2\obj\Debug\proje2.pdb
+C:\Users\aaa\Desktop\Yeni klasör\proje2\proje2\bin\Debug\proje2.exe
+C:\Users\aaa\Desktop\Yeni klasör\proje2\proje2\bin\Debug\proje2.pdb
+C:\Users\aaa\Desktop\Yeni klasör\proje2\proje2\obj\Debug\proje2.csprojResolveAssemblyReference.cache
+C:\Users\aaa\Desktop\reverGO\proje2\bin\Debug\proje2.exe.config
+C:\Users\aaa\Desktop\reverGO\proje2\obj\Debug\proje2.exe
+C:\Users\aaa\Desktop\reverGO\proje2\obj\Debug\proje2.pdb
+C:\Users\aaa\Desktop\reverGO\proje2\obj\Debug\proje2.csprojResolveAssemblyReference.cache
+C:\Users\aaa\Desktop\reverGO\proje2\bin\Debug\proje2.exe
+C:\Users\aaa\Desktop\reverGO\proje2\bin\Debug\proje2.pdb
