@@ -37,6 +37,7 @@ Sample Games
 
 ![alt text](https://github.com/hhuseyinpay/ReverGo/blob/master/Game%20sample%201.png "Game sample 1")
 ![alt text](https://github.com/hhuseyinpay/ReverGo/blob/master/Game%20sample%202.png "Game sample 1")
+
 Suggested Weekly Program
 
 1. Discussing the problem, designing solution alternatives, creating necessary variables/structures, screen.
