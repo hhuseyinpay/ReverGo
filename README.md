@@ -302,4 +302,3 @@ First Evaluation: 20.11.2015
 Report: 20.11.2015
 Final Evaluation: 27.11.2015 (Powerpoint + Poster)
                 Report: 30.11.2015
-
