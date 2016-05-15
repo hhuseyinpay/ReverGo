@@ -35,8 +35,8 @@ Game Rules
 
 Sample Games
 
-![alt text](https://drive.google.com/file/d/0B65elKSmYmqSNk1zN0NYd3NJTWM/view?usp=sharing "Game sample")
-
+![alt text](https://github.com/hhuseyinpay/ReverGo/blob/master/Game%20sample%201.png "Game sample 1")
+![alt text](https://github.com/hhuseyinpay/ReverGo/blob/master/Game%20sample%202.png "Game sample 1")
 Suggested Weekly Program
 
 1. Discussing the problem, designing solution alternatives, creating necessary variables/structures, screen.
